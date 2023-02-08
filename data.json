@@ -1,0 +1,9 @@
+{
+  "elements": [
+    {
+      "name": "Phys",
+      "description": "All Physical and Gun skills gain Technical damage bonus to enemies under Freeze or Shock. Skill costs for Physical and Gun skills always have decimals rounded up.",
+      "image": ""
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+.env
+golang-clean.*
+golang-clean
+migrate.linux-amd64
+
+src/shared/infrastructure/persistence/postgres/config/*.yml
+!src/shared/infrastructure/persistence/postgres/config/database_env.yml
+
